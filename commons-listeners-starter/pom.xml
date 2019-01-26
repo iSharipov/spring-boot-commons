@@ -5,17 +5,17 @@
     <parent>
         <groupId>io.github.isharipov</groupId>
         <artifactId>spring-boot-commons</artifactId>
-        <version>0.0.1</version>
+        <version>0.0.2-SNAPSHOT</version>
     </parent>
 
     <artifactId>commons-listeners-starter</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
 
     <dependencies>
         <dependency>
             <groupId>io.github.isharipov</groupId>
             <artifactId>commons-listeners-autoconfigure</artifactId>
-            <version>0.0.1</version>
+            <version>0.0.2-SNAPSHOT</version>
         </dependency>
     </dependencies>
 </project>
